@@ -28,5 +28,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/${{ github.repository }}:go_1.25
-            ghcr.io/${{ github.repository }}:latest
+            ghcr.io/blizzard1337/go125-blz:go_1.25
+            ghcr.io/blizzard1337/go125-blz:latest
